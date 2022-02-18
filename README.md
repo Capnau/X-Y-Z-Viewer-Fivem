@@ -10,11 +10,13 @@ Command: /xyz
 TOS:
 
 Do Not Re-upload As Your Own
+
 Do Not Claim That This Script is Your's
 
 -----------------------------------------------------------
 
 You Can Use The Code As A Reference
+
 You Can Re-Upload With Edited Code But You Must Credit Me
 
 -----------------------------------------------------------
