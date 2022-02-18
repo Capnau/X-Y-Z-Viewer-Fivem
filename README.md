@@ -5,6 +5,8 @@ it is a simple x y z, position viewer works on vehicles and the Player (Player's
 --                               Made By gary the fish [1k-28][373]#1099 -- for Wombat Roleplay -- https://discord.gg/TkB2eBujc8                                    --
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Command: /xyz
+
 TOS:
 
 Do Not Re-upload As Your Own
